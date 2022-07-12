@@ -1,0 +1,7 @@
+button{
+    font-size: 60px;
+}
+.test{
+    display: flex;
+    flex-direction: column;
+}
